@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tres en ratlla</string>
+
+    <string name="un_jugador">1 jugador</string>
+    <string name="dos_jugadores">2 jugadors</string>
+    <string name="facil">Facil</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+    <string name="casilla">casella</string>
+    <string name="circulos_ganan">Els cercles guanyen</string>
+    <string name="aspas_ganan">Les creus guanyen</string>
+    <string name="empate">Empat!</string>
+
+
+
+</resources>

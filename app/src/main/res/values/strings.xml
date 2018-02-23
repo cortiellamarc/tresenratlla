@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tick tak toe</string>
+
+    <string name="un_jugador">1 Player</string>
+    <string name="dos_jugadores">2 Players</string>
+    <string name="facil">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+    <string name="casilla">Tile</string>
+    <string name="circulos_ganan">Circles win!</string>
+    <string name="aspas_ganan">Cross win!</string>
+    <string name="empate">Tie!</string>
+
+
+</resources>
